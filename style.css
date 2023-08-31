@@ -7,7 +7,17 @@
 }
 .subtitle {
   color: #27ae60;
+  font: monserrat-bold;
 }
 .subtitle2 {
   color: #ffffff;
+  font: moserrat;
+}
+.cuerpo {
+  display: flex;
+  justify-content: space-around;
+}
+.cuerpo2 {
+  display: flex;
+  justify-content: space-around;
 }
